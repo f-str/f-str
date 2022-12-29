@@ -3,7 +3,7 @@
 <img src = "https://raw.githubusercontent.com/f-str/f-str/master/img/wave.gif" width=30px alt="hand wave"> 
 Hey there! My name is Florian Straubinger
 </h3>
-
+<br>
 <!-- Badges -->
 <picture>
     <img src="https://komarev.com/ghpvc/?username=f-str&color=ffa200" alt="view counter"/>
@@ -24,6 +24,7 @@ Hey there! My name is Florian Straubinger
 <picture>
     <img src="https://img.shields.io/badge/-Homepage-ffa200?link=https://florian-straubinger.de" alt="homepage"/>
 </picture>
+<br>
 
 I'm studying for a Master's degree in Computer Science at the [University of Passau](https://www.uni-passau.de/) with a focus on Software Analysis, AI-Engineering, and Genetic Algorithms.   
 Besides that work part-time as a working student at [IAMDS](https://iamds.com/).
@@ -76,6 +77,3 @@ In my spare time I spend way too much time ricing my [i3wm](https://i3wm.org/) A
 <picture>
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=f-str&hide_border=true&theme=github-compact&custom_title=Contribution%20Graph" alt="Github Contribution-Graph of f-str"/>
 </picture>
-
----
-
