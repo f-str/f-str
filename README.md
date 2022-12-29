@@ -57,7 +57,6 @@ In my spare time I spend way too much time ricing my [i3wm](https://i3wm.org/) A
   padding: 5px;
 }
 </style>
-
 <div class="row">
     <!--  -->
     <div class="column">
