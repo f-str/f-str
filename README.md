@@ -45,21 +45,9 @@ In my spare time I spend way too much time ricing my [i3wm](https://i3wm.org/) A
 
 ---
 
-<style>
-* {
-  box-sizing: border-box;
-}
-.row {
-  display: flex;
-}
-.column {
-  flex: 50%;
-  padding: 5px;
-}
-</style>
-<div class="row">
+<div style="display: flex">
     <!--  -->
-    <div class="column">
+    <div style="flex: 50%; padding: 5px">
         <picture style="width:100%">
             <source 
                 srcset="https://github-readme-stats.vercel.app/api?username=f-str&show_icons=true&hide_border=true&custom_title=GitHub%20Stats&theme=dark"
@@ -73,7 +61,7 @@ In my spare time I spend way too much time ricing my [i3wm](https://i3wm.org/) A
         </picture>
     </div>
     <!-- Streak -->
-    <div class="column">
+    <div style="flex: 50%; padding: 5px">
         <picture style="width:100%">
             <source 
                 srcset="https://github-readme-streak-stats.herokuapp.com/?user=f-str&show_icons=true&hide_border=true&theme=dark"
