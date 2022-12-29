@@ -24,7 +24,11 @@ Hey there! My name is Florian Straubinger
 <picture>
     <img src="https://img.shields.io/badge/-Homepage-ffa200?link=https://florian-straubinger.de" alt="homepage"/>
 </picture>
-<br>
+   
+   
+    
+    
+    
 
 I'm studying for a Master's degree in Computer Science at the [University of Passau](https://www.uni-passau.de/) with a focus on Software Analysis, AI-Engineering, and Genetic Algorithms.   
 Besides that work part-time as a working student at [IAMDS](https://iamds.com/).
