@@ -54,7 +54,7 @@ In my spare time I spend way too much time ricing my [i3wm](https://i3wm.org/) A
         srcset="https://github-readme-stats.vercel.app/api?username=f-str&show_icons=true&hide_border=true&custom_title=GitHub%20Stats"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=f-str&show_icons=true&hide_border=true&custom_title=GitHub%20Stats" alt="Github User-Stats of f-str"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=f-str&show_icons=true&hide_border=true&custom_title=GitHub%20Stats" alt="Github User-Stats of f-str"/>
 </picture>
 <!-- Streak -->
 <picture>
@@ -66,7 +66,7 @@ In my spare time I spend way too much time ricing my [i3wm](https://i3wm.org/) A
         srcset="https://github-readme-streak-stats.herokuapp.com/?user=f-str&show_icons=true&hide_border=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=f-str&show_icons=true&hide_border=true" alt="Github Streak of f-str" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f-str&show_icons=true&hide_border=true" alt="Github Streak of f-str" />
 </picture>
 
 <!-- Contribution-Graph -->
