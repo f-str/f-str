@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 style="text-align:center">
+<h3 align="center">
 <img src = "https://raw.githubusercontent.com/f-str/f-str/master/img/wave.gif" width=30px alt="hand wave"> 
 Hey there! My name is Florian Straubinger
 </h3>
@@ -45,30 +45,33 @@ In my spare time I spend way too much time ricing my [i3wm](https://i3wm.org/) A
 
 ---
 <!-- Stats -->
-<picture>
-    <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=f-str&show_icons=true&hide_border=true&custom_title=GitHub%20Stats&theme=dark"
-        media="(prefers-color-scheme: dark)"
-    />
-    <source
-        srcset="https://github-readme-stats.vercel.app/api?username=f-str&show_icons=true&hide_border=true&custom_title=GitHub%20Stats"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=f-str&show_icons=true&hide_border=true&custom_title=GitHub%20Stats" alt="Github User-Stats of f-str"/>
-</picture>
+<p align="center">
+    <picture>
+        <source 
+            srcset="https://github-readme-stats.vercel.app/api?username=f-str&show_icons=true&hide_border=true&custom_title=GitHub%20Stats&theme=dark"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=f-str&show_icons=true&hide_border=true&custom_title=GitHub%20Stats"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=f-str&show_icons=true&hide_border=true&custom_title=GitHub%20Stats" alt="Github User-Stats of f-str"/>
+    </picture>
+</p>
 <!-- Streak -->
-<picture>
-    <source 
-        srcset="https://github-readme-streak-stats.herokuapp.com/?user=f-str&show_icons=true&hide_border=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
-    />
-    <source
-        srcset="https://github-readme-streak-stats.herokuapp.com/?user=f-str&show_icons=true&hide_border=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f-str&show_icons=true&hide_border=true" alt="Github Streak of f-str" />
-</picture>
-
+<p align="center">
+    <picture>
+        <source 
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=f-str&show_icons=true&hide_border=true&theme=dark"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=f-str&show_icons=true&hide_border=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f-str&show_icons=true&hide_border=true" alt="Github Streak of f-str" />
+    </picture>
+</p>
 <!-- Contribution-Graph -->
 <picture>
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=f-str&hide_border=true&theme=github-compact&custom_title=Contribution%20Graph" alt="Github Contribution-Graph of f-str"/>
