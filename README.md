@@ -44,37 +44,35 @@ In my spare time I spend way too much time ricing my [i3wm](https://i3wm.org/) A
 <!--- - 🔑 `` --->
 
 ---
-
-<div style="display: flex">
-    <!--  -->
-    <div style="flex: 50%; padding: 5px">
-        <picture style="width:100%">
-            <source 
-                srcset="https://github-readme-stats.vercel.app/api?username=f-str&show_icons=true&hide_border=true&custom_title=GitHub%20Stats&theme=dark"
-                media="(prefers-color-scheme: dark)"
-            />
-            <source
-                srcset="https://github-readme-stats.vercel.app/api?username=f-str&show_icons=true&hide_border=true&custom_title=GitHub%20Stats"
-                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            />
-            <img src="https://github-readme-stats.vercel.app/api?username=f-str&show_icons=true&hide_border=true&custom_title=GitHub%20Stats" alt="Github User-Stats of f-str"/>
-        </picture>
-    </div>
-    <!-- Streak -->
-    <div style="flex: 50%; padding: 5px">
-        <picture style="width:100%">
-            <source 
-                srcset="https://github-readme-streak-stats.herokuapp.com/?user=f-str&show_icons=true&hide_border=true&theme=dark"
-                media="(prefers-color-scheme: dark)"
-            />
-            <source
-                srcset="https://github-readme-streak-stats.herokuapp.com/?user=f-str&show_icons=true&hide_border=true"
-                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            />
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=f-str&show_icons=true&hide_border=true" alt="Github Streak of f-str" />
-        </picture>
-    </div>
+<!-- Stats -->
+<div style="display: block; margin-left: auto; margin-right: auto; width: 50%">
+    <picture style="width:100%">
+        <source 
+            srcset="https://github-readme-stats.vercel.app/api?username=f-str&show_icons=true&hide_border=true&custom_title=GitHub%20Stats&theme=dark"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=f-str&show_icons=true&hide_border=true&custom_title=GitHub%20Stats"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=f-str&show_icons=true&hide_border=true&custom_title=GitHub%20Stats" alt="Github User-Stats of f-str"/>
+    </picture>
 </div>
+<!-- Streak -->
+<div style="display: block; margin-left: auto; margin-right: auto; width: 50%">
+    <picture style="width:100%">
+        <source 
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=f-str&show_icons=true&hide_border=true&theme=dark"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=f-str&show_icons=true&hide_border=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=f-str&show_icons=true&hide_border=true" alt="Github Streak of f-str" />
+    </picture>
+</div>
+
 <!-- Contribution-Graph -->
 <picture>
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=f-str&hide_border=true&theme=github-compact&custom_title=Contribution%20Graph" alt="Github Contribution-Graph of f-str"/>
