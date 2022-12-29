@@ -10,7 +10,7 @@ Hey there! My name is Florian Straubinger
 </picture>
 
 <picture>
-    <img src="https://img.shields.io/badge/OS-Arch--Linux-ffa200?logo=linux&logoColor=white" alt="os - linux"/>
+    <img src="https://img.shields.io/badge/OS-Arch--GNU/Linux-ffa200?logo=linux&logoColor=white" alt="os - linux"/>
 </picture>
 
 <picture>
@@ -26,7 +26,7 @@ Hey there! My name is Florian Straubinger
 </picture>
 
 I'm studying for a Master's degree in Computer Science at the [University of Passau](https://www.uni-passau.de/) with a focus on Software Analysis, AI-Engineering, and Genetic Algorithms.   
-Besides that work part-time as a working student at [IAMDS](https://iamds.com/).
+Besides that I work part-time as a working student at [IAMDS](https://iamds.com/).
 There I am mainly involved in Backend development with [Spring Boot](https://spring.io/projects/spring-boot), [Flask](https://flask.palletsprojects.com/en/2.2.x/), [Apache Kafka](https://kafka.apache.org/), and many more. 
 But also do a lot of DevOp, Software Architecture and AI-Engineering tasks.   
 In my spare time I spend way too much time ricing my [i3wm](https://i3wm.org/) Arch-GNU/Linux systems and working with and on various open source projects.
