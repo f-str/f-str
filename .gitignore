@@ -35,8 +35,11 @@
 # .idea/artifacts
 # .idea/compiler.xml
 # .idea/jarRepositories.xml
-# .idea/modules.xml
-# .idea/*.iml
+ .idea/modules.xml
+ .idea/*.iml
+ .idea/vcs.xml
+ .idea/misc.xml
+ .idea/.gitignore
 # .idea/modules
 # *.iml
 # *.ipr
