@@ -15,7 +15,7 @@ Hey there! My name is Florian Straubinger
 I'm studying for a Master's degree in Computer Science at the [University of Passau](https://www.uni-passau.de/) with a focus on Software Analysis, AI-Engineering, and Genetic Algorithms.   
 Besides that I work part-time as a working student at [IAMDS](https://iamds.com/).
 There I am mainly involved in Backend development with [Spring Boot](https://spring.io/projects/spring-boot), [Flask](https://flask.palletsprojects.com/en/2.2.x/), [Apache Kafka](https://kafka.apache.org/), and many more. 
-But also do a lot of DevOp, Software Architecture and AI-Engineering tasks.   
+But I also do a lot of DevOp, Software Architecture and AI-Engineering tasks.   
 In my spare time I spend way too much time ricing my [i3wm](https://i3wm.org/) Arch-GNU/Linux systems and working with and on various open source projects.
 
 ---
@@ -35,7 +35,7 @@ In my spare time I spend way too much time ricing my [i3wm](https://i3wm.org/) A
 <p align="center">
     <picture>
         <source 
-            srcset="https://github-readme-stats.vercel.app/api?username=f-str&show_icons=true&hide_border=true&custom_title=GitHub%20Stats&theme=dark"
+            srcset="https://github-readme-stats.vercel.app/api?username=f-str&show_icons=true&hide_border=true&theme=dark&custom_title=GitHub%20Stats"
             media="(prefers-color-scheme: dark)"
         />
         <source
