@@ -14,13 +14,13 @@ Hey there! My name is Florian Straubinger
     <pictuer>
         <img alt="os - linux" src="https://img.shields.io/badge/OS-Arch--GNU/Linux-ffa200?logo=linux&amp;logoColor=white"/>
     </pictuer>
-    <a href="https://www.linkedin.com/in/florian-straubinger">
+    <a href="https://www.linkedin.com/in/florian-straubinger" target="_blank" rel="noopener noreferrer">
         <img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-ffa200?logo=linkedin&amp;logoColor=white&amp"/>
     </a>
-    <a href="https://www.xing.com/profile/Florian_Straubinger3">
+    <a href="https://www.xing.com/profile/Florian_Straubinger3" target="_blank" rel="noopener noreferrer">
         <img alt="xing" src="https://img.shields.io/badge/-Xing-ffa200?logo=xing&amp;logoColor=white&amp"/>
     </a>
-    <a href="https://florian-straubinger.de">
+    <a href="https://florian-straubinger.de" target="_blank" rel="noopener noreferrer">
         <img alt="homepage" src="https://img.shields.io/badge/-Homepage-ffa200"/>
     </a>
     <br>
