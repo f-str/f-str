@@ -8,8 +8,12 @@ Hey there! My name is Florian Straubinger
 <div align="center">
     <br>
     <br>
-    <img alt="ViewCounter" src="https://komarev.com/ghpvc/?username=f-str&amp;color=ffa200"/>
-    <img alt="os - linux" src="https://img.shields.io/badge/OS-Arch--GNU/Linux-ffa200?logo=linux&amp;logoColor=white"/>
+    <picture>
+        <img alt="ViewCounter" src="https://komarev.com/ghpvc/?username=f-str&amp;color=ffa200"/>
+    </picture>
+    <pictuer>
+        <img alt="os - linux" src="https://img.shields.io/badge/OS-Arch--GNU/Linux-ffa200?logo=linux&amp;logoColor=white"/>
+    </pictuer>
     <a href="https://www.linkedin.com/in/florian-straubinger">
         <img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-ffa200?logo=linkedin&amp;logoColor=white&amp"/>
     </a>
