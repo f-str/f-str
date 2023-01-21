@@ -6,11 +6,17 @@ Hey there! My name is Florian Straubinger
 <br>
 <!-- Badges -->
 
-![ViewCounter](https://komarev.com/ghpvc/?username=f-str&color=ffa200)
-![os - linux](https://img.shields.io/badge/OS-Arch--GNU/Linux-ffa200?logo=linux&logoColor=white)
-![linkedin](https://img.shields.io/badge/-LinkedIn-ffa200?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/florian-straubinger)
-![xing](https://img.shields.io/badge/-Xing-ffa200?logo=xing&logoColor=white&link=https://www.xing.com/profile/Florian_Straubinger3)
-![homepage](https://img.shields.io/badge/-Homepage-ffa200?link=https://florian-straubinger.de)
+<img alt="ViewCounter" src="https://komarev.com/ghpvc/?username=f-str&amp;color=ffa200"/>
+<img alt="os - linux" src="https://img.shields.io/badge/OS-Arch--GNU/Linux-ffa200?logo=linux&amp;logoColor=white"/>
+<a href="https://www.linkedin.com/in/florian-straubinger">
+    <img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-ffa200?logo=linkedin&amp;logoColor=white&amp"/>
+</a>
+<a href="https://www.xing.com/profile/Florian_Straubinger3">
+    <img alt="xing" src="https://img.shields.io/badge/-Xing-ffa200?logo=xing&amp;logoColor=white&amp"/>
+</a>
+<a href="https://florian-straubinger.de">
+    <img alt="homepage" src="https://img.shields.io/badge/-Homepage-ffa200"/>
+</a>
 
 I'm studying for a Master's degree in Computer Science at the [University of Passau](https://www.uni-passau.de/) with a focus on Software Analysis, AI-Engineering, and Genetic Algorithms.   
 Besides that I work part-time as a working student at [IAMDS](https://iamds.com/).
