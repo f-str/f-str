@@ -3,10 +3,11 @@
 <img src = "https://raw.githubusercontent.com/f-str/f-str/master/img/wave.gif" width=30px alt="hand wave"> 
 Hey there! My name is Florian Straubinger
 </h3>
-<br>
 <!-- Badges -->
 
 <div align="center">
+    <br>
+    <br>
     <img alt="ViewCounter" src="https://komarev.com/ghpvc/?username=f-str&amp;color=ffa200"/>
     <img alt="os - linux" src="https://img.shields.io/badge/OS-Arch--GNU/Linux-ffa200?logo=linux&amp;logoColor=white"/>
     <a href="https://www.linkedin.com/in/florian-straubinger">
@@ -18,6 +19,8 @@ Hey there! My name is Florian Straubinger
     <a href="https://florian-straubinger.de">
         <img alt="homepage" src="https://img.shields.io/badge/-Homepage-ffa200"/>
     </a>
+    <br>
+    <br>
 </div>
 
 
