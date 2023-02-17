@@ -28,17 +28,19 @@ Hey there! My name is Florian Straubinger
 </div>
 
 
-I'm studying for a Master's degree in Computer Science at the [University of Passau](https://www.uni-passau.de/) with a focus on Software Analysis, AI-Engineering, and Genetic Algorithms.   
+I'm studying for a Master's degree in Computer Science at the [University of Passau](https://www.uni-passau.de/) with a focus on Software Analysis, AI-Engineering, and [Evolutionary Algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm).   
 Besides that I work part-time as a working student at [IAMDS](https://iamds.com/).
-There I am mainly involved in Backend development with [Spring Boot](https://spring.io/projects/spring-boot), [Flask](https://flask.palletsprojects.com/en/2.2.x/), [Apache Kafka](https://kafka.apache.org/), and many more. 
-But I also do a lot of DevOp, Software Architecture and AI-Engineering tasks.   
+There I am mainly involved in Backend development with [Spring Boot](https://spring.io/projects/spring-boot), [.NET](https://dotnet.microsoft.com/en-us/), [Flask](https://flask.palletsprojects.com/en/2.2.x/), [Apache Kafka](https://kafka.apache.org/), and many more. 
+But I also do a lot of DevOp, Software Architecture, AI-Engineering, and Project-Lead tasks.   
 In my spare time I spend way too much time ricing my [i3wm](https://i3wm.org/) Arch-GNU/Linux systems and working with and on various open source projects.
 
 ---
 
-- 🔨 I’m currently working on [CCMD](https://github.com/f-str/ccmd)
+- 🔨 I'm currently working on [CCMD](https://github.com/f-str/ccmd)
 
-- 🌱 I’m currently learning **Rust** and **Flutter**
+- 🌱 I'm currently learning **Rust** and **Flutter**
+
+- 🔭 I'm looking forward to learn more about [Neuroevolution](https://en.wikipedia.org/wiki/Neuroevolution) and [Deep Reinforcement Learning](https://en.wikipedia.org/wiki/Deep_reinforcement_learning) 
 
 - 📫 Reach out to me via [github@flo-str.de](mailto:github@flo-str.de)
 
