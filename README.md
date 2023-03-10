@@ -36,7 +36,7 @@ In my spare time I spend way too much time ricing my [i3wm](https://i3wm.org/) A
 
 ---
 
-- 🔨 I'm currently working on [CCMD](https://github.com/f-str/ccmd)
+- 🔨 I'm currently working on [RadishMQ](https://github.com/f-str/radishmq)
 
 - 🌱 I'm currently learning **Rust** and **Flutter**
 
@@ -46,6 +46,7 @@ In my spare time I spend way too much time ricing my [i3wm](https://i3wm.org/) A
 
 - ⚡ Fun Fact: I started programming using [Arduinos](https://www.arduino.cc/) and C
 
+<!--- - 📝 I'm currently writing my Master's thesis about --->
 <!--- - 🔑 `` --->
 
 ---
