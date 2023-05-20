@@ -30,15 +30,17 @@ Hey there! My name is Florian Straubinger
 
 I'm studying for a Master's degree in Computer Science at the [University of Passau](https://www.uni-passau.de/) with a focus on Software Analysis, AI-Engineering, and [Evolutionary Algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm).   
 Besides that I work part-time as a working student at [IAMDS](https://iamds.com/).
-There I am mainly involved in Backend development with [Spring Boot](https://spring.io/projects/spring-boot), [.NET](https://dotnet.microsoft.com/en-us/), [Flask](https://flask.palletsprojects.com/en/2.2.x/), [Apache Kafka](https://kafka.apache.org/), and many more. 
-But I also do a lot of DevOp, Software Architecture, AI-Engineering, and Project-Lead tasks.   
+There I am mainly involved in Backend development with [Spring Boot](https://spring.io/projects/spring-boot), [.NET](https://dotnet.microsoft.com/en-us/), [Flask](https://flask.palletsprojects.com/en/2.2.x/), [NestJS](https://nestjs.com/), [Apache Kafka](https://kafka.apache.org/), and many more. 
+But I also do a lot of DevOps, Software Architecture, AI-Engineering, and Project-Lead tasks.   
 In my spare time I spend way too much time ricing my [i3wm](https://i3wm.org/) Arch-GNU/Linux systems and working with and on various open source projects.
 
 ---
 
-- 🔨 I'm currently working on [RadishMQ](https://github.com/f-str/radishmq)
+- 🔨 I'm currently working on [RadishMQ](https://github.com/f-str/radishmq) and [Vorteks](https://github.com/f-str/vorteks)
 
-- 🌱 I'm currently learning **Rust** and **Flutter**
+- 🌱 I'm currently learning **Rust**
+
+- 📝 I'm currently writing my Master's thesis about Deep Q-Learning in combination with Neuroevolution in the context of software testing.
 
 - 🔭 I'm looking forward to learn more about [Neuroevolution](https://en.wikipedia.org/wiki/Neuroevolution) and [Deep Reinforcement Learning](https://en.wikipedia.org/wiki/Deep_reinforcement_learning) 
 
@@ -46,7 +48,6 @@ In my spare time I spend way too much time ricing my [i3wm](https://i3wm.org/) A
 
 - ⚡ Fun Fact: I started programming using [Arduinos](https://www.arduino.cc/) and C
 
-<!--- - 📝 I'm currently writing my Master's thesis about --->
 <!--- - 🔑 `` --->
 
 ---
@@ -76,6 +77,19 @@ In my spare time I spend way too much time ricing my [i3wm](https://i3wm.org/) A
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f-str&show_icons=true&hide_border=true" alt="Github Streak of f-str" />
+    </picture>
+</p>
+<!-- Top Languages -->
+<p align="center">
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=f-str&layout=compact&theme=dark)"
+            media="(prefers-color-schme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=f-str&layout=compact"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
     </picture>
 </p>
 <!-- Contribution-Graph -->
