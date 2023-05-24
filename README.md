@@ -84,12 +84,13 @@ In my spare time I spend way too much time ricing my [i3wm](https://i3wm.org/) A
     <picture>
         <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=f-str&layout=compact&theme=dark)"
-            media="(prefers-color-schme: dark)"
+            media="(prefers-color-scheme: dark)"
         />
         <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=f-str&layout=compact"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-str&layout=compact" alt="Github top languages of f-str" />
     </picture>
 </p>
 <!-- Contribution-Graph -->
