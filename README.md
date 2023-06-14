@@ -95,5 +95,5 @@ In my spare time I spend way too much time ricing my [i3wm](https://i3wm.org/) A
 </p>
 <!-- Contribution-Graph -->
 <picture>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=f-str&hide_border=true&theme=github-compact&custom_title=Contribution%20Graph" alt="Github Contribution-Graph of f-str"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=f-str&hide_border=true&theme=github-compact&custom_title=Contribution%20Graph" alt="Github Contribution-Graph of f-str"/>
 </picture>
