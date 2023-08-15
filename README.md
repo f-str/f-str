@@ -3,9 +3,9 @@
 <img src = "https://raw.githubusercontent.com/f-str/f-str/master/img/wave.gif" width=30px alt="hand wave"> 
 Hey there! My name is Florian Straubinger
 </h3>
+<br>
 <!-- Badges -->
-
-<div align="center">
+<!--<div align="center">
     <br>
     <br>
     <picture>
@@ -25,7 +25,7 @@ Hey there! My name is Florian Straubinger
     </a>
     <br>
     <br>
-</div>
+</div>-->
 
 
 I'm studying for a Master's degree in Computer Science at the [University of Passau](https://www.uni-passau.de/) with a focus on Software Analysis, AI-Engineering, and [Evolutionary Algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm).   
@@ -44,7 +44,7 @@ In my spare time I spend way too much time ricing my [i3wm](https://i3wm.org/) A
 
 - 🔭 I'm looking forward to learn more about [Neuroevolution](https://en.wikipedia.org/wiki/Neuroevolution) and [Deep Reinforcement Learning](https://en.wikipedia.org/wiki/Deep_reinforcement_learning) 
 
-- 📫 Reach out to me via [github@flo-str.de](mailto:github@flo-str.de)
+- 📫 Reach out to me via [github@f-str.de](mailto:github@f-str.de)
 
 - ⚡ Fun Fact: I started programming using [Arduinos](https://www.arduino.cc/) and C
 
