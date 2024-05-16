@@ -29,7 +29,7 @@ Hey there! My name is Florian Straubinger
 
 
 I'm studying for a Master's degree in Computer Science at the [University of Passau](https://www.uni-passau.de/) with a focus on Software Analysis, AI-Engineering, and [Evolutionary Algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm).   
-Besides that I worke as a professional software developer in the industry.
+Besides that I work as a professional software developer in the industry.
 There I am mainly involved in Backend development with [Spring Boot](https://spring.io/projects/spring-boot), [.NET](https://dotnet.microsoft.com/en-us/), [Flask](https://flask.palletsprojects.com/en/2.2.x/), [NestJS](https://nestjs.com/), [Apache Kafka](https://kafka.apache.org/), and many more. 
 But I also do a lot of DevOps, Software Architecture, AI-Engineering, and Project-Lead tasks.   
 In my spare time I spend way too much time ricing my [i3wm](https://i3wm.org/) Arch-GNU/Linux systems and working with and on various open source projects.
