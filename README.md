@@ -1,48 +1,21 @@
 <!-- Heading -->
 <h3 align="center">
 <img src = "https://raw.githubusercontent.com/f-str/f-str/master/img/wave.gif" width=30px alt="hand wave"> 
-Hey there! My name is Florian Straubinger
+Hey there! I'm Florian
 </h3>
 <br>
-<!-- Badges -->
-<!--<div align="center">
-    <br>
-    <br>
-    <picture>
-        <img alt="ViewCounter" src="https://komarev.com/ghpvc/?username=f-str&amp;color=ffa200"/>
-    </picture>
-    <pictuer>
-        <img alt="os - linux" src="https://img.shields.io/badge/OS-Arch--GNU/Linux-ffa200?logo=linux&amp;logoColor=white"/>
-    </pictuer>
-    <a href="https://www.linkedin.com/in/florian-straubinger" target="_blank" rel="noopener noreferrer">
-        <img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-ffa200?logo=linkedin&amp;logoColor=white&amp"/>
-    </a>
-    <a href="https://www.xing.com/profile/Florian_Straubinger3" target="_blank" rel="noopener noreferrer">
-        <img alt="xing" src="https://img.shields.io/badge/-Xing-ffa200?logo=xing&amp;logoColor=white&amp"/>
-    </a>
-    <a href="https://florian-straubinger.de" target="_blank" rel="noopener noreferrer">
-        <img alt="homepage" src="https://img.shields.io/badge/-Homepage-ffa200"/>
-    </a>
-    <br>
-    <br>
-</div>-->
 
-
-I'm studying for a Master's degree in Computer Science at the [University of Passau](https://www.uni-passau.de/) with a focus on Software Analysis, AI-Engineering, and [Evolutionary Algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm).   
-Besides that I work as a professional software developer in the industry.
-There I am mainly involved in Backend development with [Spring Boot](https://spring.io/projects/spring-boot), [.NET](https://dotnet.microsoft.com/en-us/), [Flask](https://flask.palletsprojects.com/en/2.2.x/), [NestJS](https://nestjs.com/), [Apache Kafka](https://kafka.apache.org/), and many more. 
-But I also do a lot of DevOps, Software Architecture, AI-Engineering, and Project-Lead tasks.   
+I have a Master's degree in Computer Science from the [University of Passau](https://www.uni-passau.de/), where I focused mainly on Software Testing, Software Analysis, AI-Engineering, and [Evolutionary Algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm).   
+Now I work as a professional IoT Consultant in the industry.
 In my spare time I spend way too much time ricing my [i3wm](https://i3wm.org/) Arch-GNU/Linux systems and working with and on various open source projects.
 
 ---
 
-- 🔨 I'm currently working on [RadishMQ](https://github.com/f-str/radishmq) and [Vorteks](https://github.com/f-str/vorteks)
+- 🔨 I'm currently working on [Waggon](https://github.com/f-str/waggon) and [Vorteks](https://github.com/f-str/vorteks)
 
-- 🌱 I'm currently learning **Rust**
+- 🌱 I'm currently learning **Rust** and **Go**
 
-- 📝 I'm currently writing my Master's thesis about Deep Q-Learning in combination with Neuroevolution in the context of software testing.
-
-- 🔭 I'm looking forward to learn more about [Neuroevolution](https://en.wikipedia.org/wiki/Neuroevolution) and [Deep Reinforcement Learning](https://en.wikipedia.org/wiki/Deep_reinforcement_learning) 
+- 🔭 I'm looking forward to learn more about [Neuroevolution](https://en.wikipedia.org/wiki/Neuroevolution)
 
 - 📫 Reach out to me via [github@f-str.de](mailto:github@f-str.de)
 
