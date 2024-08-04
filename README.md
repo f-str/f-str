@@ -15,7 +15,7 @@ In my spare time I spend way too much time ricing my [i3wm](https://i3wm.org/) A
 
 - 🌱 I'm currently learning **Rust** and **Go**
 
-- 🔭 I'm looking forward to learn more about [Neuroevolution](https://en.wikipedia.org/wiki/Neuroevolution)
+- 🔭 I'm looking forward to learn more about **System Programming**
 
 - 📫 Reach out to me via [github@f-str.de](mailto:github@f-str.de)
 
