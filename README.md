@@ -5,8 +5,9 @@ Hey there! I'm Florian
 </h3>
 <br>
 
-I have a Master's degree in Computer Science from the [University of Passau](https://www.uni-passau.de/), where I focused mainly on Software Testing, Software Analysis, AI-Engineering, and [Evolutionary Algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm).   
-Now I work as a professional IoT Consultant in the industry.  
+
+I work as a consultant in the IoT industry, helping our clients to drive innovation in their projects in this area by utilising emerging, highly scalable Cloud Computing and Machine Learning and AI technologies supported by various open source tools and frameworks.
+I graduated with a Master's degree in Computer Science from the [University of Passau](https://www.uni-passau.de/), where I focused mainly on Software Testing, Software Analysis, AI-Engineering, and [Evolutionary Algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm).   
 In my spare time I spend way too much time ricing my [i3wm](https://i3wm.org/) Arch-GNU/Linux systems and working with and on various open source projects.
 
 ---
